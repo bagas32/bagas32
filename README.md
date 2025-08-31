@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 ![akasha](img/github-header-banner.png)
 <!--
 **bagas32/bagas32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
