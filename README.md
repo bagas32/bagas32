@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [**Nothing**](https://en.wikipedia.org/wiki/Nothing#:~:text=Nothing%2C%20no%2Dthing%2C%20or,for%20nothing%20to%20%22exist%22.)
-- 🌱 I’m currently learning **Python** 🐍
+<!-- - 🔭 I’m currently working on [**Nothing**](https://en.wikipedia.org/wiki/Nothing#:~:text=Nothing%2C%20no%2Dthing%2C%20or,for%20nothing%20to%20%22exist%22.)
+- 🌱 I’m currently learning **Python** 🐍 -->
 
-#### Languages
+### Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="15" />
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
 </div>
 
-#### Database
+### Database
 
 <div align="center">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div>
 
-#### Framework
+### Framework
 <div align="center">
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </div>
 
-#### IDE
+### IDE
 
 <div align="center">
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </div>
 
 
-#### Social
+### Social
 
 ![https://github.com/bagas32](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://www.instagram.com/bagas.a.j/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/bonifasius-bagas-anggoro-jati-49b611260/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
