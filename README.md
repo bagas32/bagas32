@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![akasha](img/github-header-banner.png)
 <!--
 **bagas32/bagas32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [**Nothing**](https://en.wikipedia.org/wiki/Nothing#:~:text=Nothing%2C%20no%2Dthing%2C%20or,for%20nothing%20to%20%22exist%22.)
+- 🌱 I’m currently learning **Python** 🐍
